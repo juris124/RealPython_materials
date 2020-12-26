@@ -111,3 +111,6 @@ ENV/
 
 # VS Code workspace
 *.code-workspace
+sorted_names.txt
+.gitignore
+names.txt
